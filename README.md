@@ -2,11 +2,11 @@
 
 🎓 I'm currently a Ph.D. student at Zhejiang University.
 
-🔬 I'm interested in improving the reasoning capabilities of foundation models, including
+🔬 I'm interested in advancing the reasoning capabilities of foundation models, including:
 - Logical reasoning
 - Post-training
-- Agentic Optimization
+- Agentic RL
 ----
-🎢 A personal mission: to visit every Disney park in the world before my Ph.D. graduation.
+🎢 A personal mission: to visit every Disney park around the world before completing my Ph.D.
 
-💫 Glad to meet you along the way.
+💫 Thanks for stopping by. Nice to meet you on this journey.
