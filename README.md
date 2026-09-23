@@ -7,6 +7,5 @@
 - Post-training
 - Agentic RL
 ----
-🎢 A personal mission: to visit every Disney park around the world before completing my Ph.D.
 
-💫 Thanks for stopping by. Nice to meet you on this journey.
+💫 Thanks for stopping by.
